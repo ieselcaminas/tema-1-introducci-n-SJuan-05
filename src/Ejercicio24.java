@@ -14,7 +14,7 @@ public class Ejercicio24 {
         do {
 
                 System.out.println("Ingrese la nota: ");
-                num1 = entrada.nextInt();
+                num1 = entrada.nextFloat();
 
                 if (num1 >= 0 && num1 <= 10){
 
