@@ -11,9 +11,10 @@ public class Ejercicio24 {
 
         Scanner entrada = new Scanner(System.in);
 
+        System.out.println("Ingrese la nota: ");
+
         do {
 
-                System.out.println("Ingrese la nota: ");
                 num1 = entrada.nextFloat();
 
                 if (num1 >= 0 && num1 <= 10){

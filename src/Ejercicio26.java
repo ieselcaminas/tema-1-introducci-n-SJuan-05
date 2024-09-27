@@ -9,7 +9,6 @@ public class Ejercicio26 {
         num = sc.nextInt();
 
 
-
         for (int i = 1; i >= 10; i++) {
 
             System.out.println(num + " x " + i + " y " + (num + i));

@@ -10,6 +10,7 @@ public class Ejercicio35 {
         System.out.println("Ingrese un numero");
         num1 = sc.nextInt();
 
+
         System.out.println("Ingrese por cuanto lo quieres dividir");
         num2 = sc.nextInt();
 

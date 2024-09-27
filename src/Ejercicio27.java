@@ -11,6 +11,7 @@ public class Ejercicio27 {
         System.out.println("Ingrese un número: ");
         num = sc.nextInt();
 
+
         for (int i = 1; j <= i; j++) {
 
             System.out.println(j + " ");

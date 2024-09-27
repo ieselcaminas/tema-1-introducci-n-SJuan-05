@@ -11,6 +11,7 @@ public class Ejercicio34 {
         System.out.println("Ingrese un numero");
         num1 = sc.nextInt();
 
+
         System.out.println("Ingrese por cuanto lo quieres multiplicar");
         num2 = sc.nextInt();
 

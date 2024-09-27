@@ -7,7 +7,7 @@ public class Ejercicio23 {
         int positivo = 0;
 
         Scanner sc = new Scanner(System.in);
-        ;
+
 
         do {
 

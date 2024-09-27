@@ -9,6 +9,7 @@ public class Ejercicio31 {
         System.out.println("Ingrese un número");
         num = sc.nextInt();
 
+
         for (int i = 1; i <= num; i++) {
             if (num % i == 0) {
 
