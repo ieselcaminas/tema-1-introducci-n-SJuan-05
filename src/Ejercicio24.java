@@ -45,6 +45,5 @@ public class Ejercicio24 {
         System.out.println("La nota media de las notas que has introducido es: " + media_notas);
 
 
-
     }
 }
